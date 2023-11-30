@@ -7,4 +7,9 @@ Algorithms Utilized :
 3. KNeighbors Regressor
 4. Bagging Regressor
 5. SVR
-Libraries : Numpy, Pandas, Seaborn, SKLearn
+
+## Libraries
+- **Numpy**: For numerical operations.
+- **Pandas**: For data manipulation and analysis.
+- **Seaborn**: For data visualization.
+- **Scikit-Learn (SKLearn)**: For machine learning algorithms and tools.
